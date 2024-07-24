@@ -42,7 +42,7 @@ python3 --version
 
    Execute the main script to start the bot:
    
-                                        python3 alex.py
+                                        python alex.py
 
 
 
